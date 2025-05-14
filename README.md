@@ -1,1 +1,1 @@
-# mini_project_fd_calcualtor
+# mini_project_fd_calculator
